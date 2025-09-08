@@ -47,7 +47,7 @@ I'm Lucas Cardoso, age 33, Founder and CEO at Green Next | Automation Engineer |
     title="Javascript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
