@@ -43,6 +43,14 @@ I'm Lucas Cardoso, age 33, Founder and CEO at Green Next | Automation Engineer |
 />
 <img 
     align="left" 
+    alt="Javascript" 
+    title="Javascript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Arduino" 
     title="Arduino"
     width="30px" 
@@ -51,35 +59,11 @@ I'm Lucas Cardoso, age 33, Founder and CEO at Green Next | Automation Engineer |
 />
 <img 
     align="left" 
-    alt="Django"
-    title="Django" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="DRF" 
-    title="DRF"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line-wordmark.svg"
-/>
-<img 
-    align="left" 
     alt="Docker"
     title="Docker" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="Flask" 
-    title="Flask"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"
 />
 <img 
     align="left" 
