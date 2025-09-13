@@ -1,4 +1,4 @@
-# Lucas Cardoso
+# 👽 Lucas Cardoso
 
 **`Data Science | AI | Machine Learning`**
 
