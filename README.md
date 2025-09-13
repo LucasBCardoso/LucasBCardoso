@@ -6,6 +6,8 @@ I'm Lucas Cardoso, age 33, Founder and CEO at Green Next | Automation Engineer |
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasBCardoso&bg_color=000000&color=ffcc24&line=ffcc24&point=ffcc24&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasBCardoso&bg_color=000000&color=ffcc24&line=ffcc24&point=ffcc24&area=true&area_color=ffcc24&area_opacity=0.25&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
