@@ -2,13 +2,13 @@
   <img 
       alt="me"
       title="me" 
-      width="40px"
-      src="https://avatars.githubusercontent.com/u/54423255?v=4"
-      style="border-radius: 50%;" 
+      width="40" 
+      height="40" 
+      src="https://avatars.githubusercontent.com/u/54423255?v=4" 
+      style="border-radius: 50%; object-fit: cover;" 
   /> 
-  Lucas Cardoso
+  <span style="font-size: 40px; line-height: 1;">Lucas Cardoso</span>
 </div>
-
 
 **`Data Science | AI | Machine Learning`**
 
