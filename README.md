@@ -1,13 +1,12 @@
-<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 10px;">
   <img 
-      alt="me"
-      title="me" 
-      width="40" 
-      height="40" 
-      src="https://avatars.githubusercontent.com/u/54423255?v=4" 
-      style="border-radius: 50%; object-fit: cover;" 
-  /> 
-  <span style="font-size: 40px; line-height: 1;">Lucas Cardoso</span>
+    src="https://avatars.githubusercontent.com/u/54423255?v=4" 
+    alt="Lucas Cardoso" 
+    width="40" 
+    height="40" 
+    style="border-radius: 50%;"
+  />
+  <span style="font-size: 32px; font-weight: bold;">Lucas Cardoso</span>
 </div>
 
 **`Data Science | AI | Machine Learning`**
