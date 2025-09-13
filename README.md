@@ -1,25 +1,12 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffcc24&height=120&section=header"/>
+
 # 👽 Lucas Cardoso
 
 **`Data Science | AI | Machine Learning`**
 
 I'm Lucas Cardoso, age 33, Founder and CEO at Green Next | Automation Engineer | Msc. Computer Engineering
 
-<p align="left"> 
-    <a href="https://github.com/LucasBCardoso?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LucasBCardoso?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/LucasBCardoso?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LucasBCardoso?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasBCardoso&bg_color=000000&color=ffcc24&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -132,3 +119,5 @@ I'm Lucas Cardoso, age 33, Founder and CEO at Green Next | Automation Engineer |
 
 <br/>
 <br/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffcc24&height=120&section=footer"/>
