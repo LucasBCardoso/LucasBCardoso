@@ -6,11 +6,7 @@ I'm Lucas Cardoso, age 33, Founder and CEO at Green Next | Automation Engineer |
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasBCardoso&bg_color=000000&color=ffcc24&line=ffcc24&point=ffcc24&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasBCardoso/LucasBCardoso/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasBCardoso/LucasBCardoso/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasBCardoso/LucasBCardoso/output/github-contribution-grid-snake.svg">
-</picture>
+[![LucasBCardoso's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasBCardoso&bg_color=ffffff&color=ffcc24&line=ffbb33&point=ffd066&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
