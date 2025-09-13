@@ -1,4 +1,14 @@
-# 👽 Lucas Cardoso
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <img 
+      alt="me"
+      title="me" 
+      width="40px"
+      src="https://avatars.githubusercontent.com/u/54423255?v=4"
+      style="border-radius: 50%;" 
+  /> 
+  Lucas Cardoso
+</div>
+
 
 **`Data Science | AI | Machine Learning`**
 
