@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffcc24&height=120&section=header"/>
-
 # 👽 Lucas Cardoso
 
 **`Data Science | AI | Machine Learning`**
