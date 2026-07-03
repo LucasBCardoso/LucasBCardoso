@@ -2,7 +2,7 @@
 
 **`Data Science | AI | Machine Learning`**
 
-I'm Lucas Cardoso, Automation Engineer | Msc. Computer Engineering
+Automation Engineer | Msc. Computer Engineering
 
 ---
 
