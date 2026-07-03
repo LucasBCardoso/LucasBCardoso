@@ -2,7 +2,7 @@
 
 **`Data Science | AI | Machine Learning`**
 
-I'm Lucas Cardoso, age 33, Founder and CEO at Green Next | Automation Engineer | Msc. Computer Engineering
+I'm Lucas Cardoso, Automation Engineer | Msc. Computer Engineering
 
 ---
 
