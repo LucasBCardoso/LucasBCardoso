@@ -1,119 +1,23 @@
-# 👽 Lucas Cardoso
+# Lucas Cardoso
 
-**`Data Science | AI | Machine Learning`**
+Senior Software Engineer, AI & Computer Vision. I build AI systems that run on real machines: industrial vision, edge inference and IoT.
 
-Automation Engineer | Msc. Computer Engineering
+- Now: embedded computer vision for textile machinery at Delta Máquinas Têxteis
+- Before: Founder & CEO of Green Next (2019–2025), an IoT platform for irrigation management
+- M.Sc. candidate in Computer Engineering at FURG: deep learning for irrigation forecasting
 
----
+## Selected work
 
-### 🤖 Linguagens e Tecnologias
+| Project | What it shows |
+|---|---|
+| [iot-ops-agent](link) | Multi-agent assistant with LangGraph, RAG and an MCP server |
+| [cv-mlops-pipeline](link) | Object detection from training to Kubernetes, with MLflow and ONNX |
+| [irrigation-forecasting](link) | Time-series forecasting with N-BEATS on IoT and weather data |
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Javascript" 
-    title="Javascript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Arduino" 
-    title="Arduino"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker"
-    title="Docker" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="Colab" 
-    title="Colab"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg"    
-/>
-<img 
-    align="left" 
-    alt="Heroku" 
-    title="Heroku"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg"       
-/>
-<img 
-    align="left" 
-    alt="MatLab" 
-    title="MatLab"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="Postman" 
-    title="Postman"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
-/>
-<img 
-    align="left" 
-    alt="R" 
-    title="R"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Railway" 
-    title="Railway"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg"
-/>
+## Stack
 
-<br/>
-<br/>
+Python · PyTorch · YOLO · OpenCV · LangGraph · FastAPI · Docker · Kubernetes · MLflow · PostgreSQL
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffcc24&height=120&section=footer"/>
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/lucasbrasilcardoso/) · [Website](https://www.lucasbcardoso.com.br) · lucasbrasilcardoso@gmail.com
